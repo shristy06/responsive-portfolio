@@ -1,0 +1,4 @@
+Project Description
+This project is a Styled Portfolio Website developed using HTML5 and CSS3. The website is designed to present personal information, skills, projects, and contact details in a clean, modern, and responsive layout. It demonstrates the use of external CSS styling, different CSS selectors, Flexbox layout, hover effects, and responsive design techniques.
+The portfolio includes a navigation bar, hero section, about section, skills section, projects section, and footer. The layout is organized using Flexbox, while media queries ensure that the website adapts properly to different screen sizes, including mobile devices. Custom colors, spacing, shadows, and hover effects are applied to create a visually appealing user experience.
+This project was created as part of an internship task to practice front-end web development fundamentals and build a professional portfolio website.
